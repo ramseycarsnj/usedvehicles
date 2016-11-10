@@ -45,9 +45,7 @@ $(document).ready(function(){
 
       thisCar.trim + '</li><li class="sectionTitle sectionSpacing">Color</li><li>'+
 
-      thisCar.carColor + '</li><li class="sectionTitle sectionSpacing">Model Code</li><li>'+
-
-      thisCar.modelCode + '</li><li class="sectionTitle sectionSpacing">Stock Number</li><li>'+
+      thisCar.carColor + '</li><li class="sectionTitle sectionSpacing">Stock Number</li><li>'+
 
       thisCar.stock + '</li><li class="sectionSpacing"><a href="' +
 
@@ -73,7 +71,7 @@ vehicleArray[0] = new Vehicle(
 vehicleArray[1] = new Vehicle(
   'SUU2686',
   '2014 Subaru Legacy 2.5i',
-  '2,5i',
+  '2.5i',
   'Satin White',
   '$15,772',
   'https://pictures.dealer.com/r/ramseysubaruramseysoa/1465/ec899be7985a9dca1c150c84102b60f2x.jpg',
@@ -84,57 +82,57 @@ vehicleArray[1] = new Vehicle(
   '6 Speed Manual',
   '37,490');
 vehicleArray[2] = new Vehicle(
-  'SUU2693',
-  '2013 Subaru Impreza 2.0i',
-  '2.0i',
-  'Dark Gray',
-  '$14,977',
-  'https://pictures.dealer.com//autodata/us/large_stockphoto-color/2013/USC30SUC042A0/DGM.jpg',
-  'http://www.ramseysubaru.net/certified/Subaru/2013-Subaru-Impreza-ramsey-nj-0438e0c50a0e0adf065da0a37d7f258f.htm?searchDepth=1:1',
-  '2.0L H-4 Cyl',
-  '25 city/33 hwy',
+  'SUU2704',
+  '2013 Subaru Outback 2.5i',
+  '2.5i',
+  'Deep Indigo',
+  '$19,378',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/0069/9ea2f5e4d7283dca0d2990afe79fc316x.jpg',
+  'http://www.ramseysubaru.net/certified/Subaru/2013-Subaru-Outback-ramsey-nj-33553ae60a0e0a17689cb50d00131cc1.htm?searchDepth=1:1',
+  '2.5L H-4 Cyl',
+  '21 city/28 hwy',
   4,
-  '5 speed manual',
-  '33,762');
+  'Automatic CVT',
+  '23,299');
 vehicleArray[3] = new Vehicle(
-  'SUU2698',
-  '2013 Subaru Impreza 2.0i',
-  '2.0i',
-  'Marine Blue',
-  '$15,385',
-  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1671/9e31f34d14bc5ebd049aa26eeb7c575fx.jpg',
-  'http://www.ramseysubaru.net/certified/Subaru/2013-Subaru-Impreza-ramsey-nj-0e9161fd0a0e0adf72d8a929902125d7.htm?searchDepth=1:1',
-  '2.0L H-4 Cyl',
-  '25 city/33 hwy',
-  '5',
-  '5 speed manual',
-  '34,576');
-vehicleArray[4] = new Vehicle(
-  'SUU2700',
-  '2013 Subaru Crosstrek 2.0i',
-  '2,0i',
-  'Ice Silver',
-  '$18,778',
-  'https://pictures.dealer.com/r/ramseysubaruramseysoa/0501/cded441d8b8d424504e8a31156b51271x.jpg',
-  'http://www.ramseysubaru.net/certified/Subaru/2013-Subaru-XV+Crosstrek-ramsey-nj-0e91619d0a0e0adf72d8a92907eff5ec.htm?searchDepth=1:1',
-  '2.0L H-4 Cyl',
-  '25 city/ 33 hwy',
+  'SUU2705',
+  '2014 Subaru Impreza 2.5i',
+  '2.5i',
+  'Carbide Grey',
+  '$17,896',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/0807/a9a784ad4900ffe34a98560c1e688e89x.jpg',
+  'http://www.ramseysubaru.net/certified/Subaru/2014-Subaru-Legacy-ramsey-nj-33553b220a0e0a17689cb50d089dd7b1.htm?searchDepth=1:1',
+  '2.5L H-4 Cyl',
+  '24 city/32 hwy',
   '4',
   'Automatic CVT',
-  '50,190');
+  '42,376');
+vehicleArray[4] = new Vehicle(
+  'SUG2401A',
+  '2015 Subaru Crosstrek 2.0i',
+  '2,0i',
+  'Khaki',
+  '$18,684',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1524/23dd64cfc3af9e204f3c45001c65b788x.jpg',
+  'http://www.ramseysubaru.net/used/Subaru/2015-Subaru-XV+Crosstrek-ramsey-nj-997522e00a0e0a177eab2318d1dbe2bc.htm?searchDepth=1:1',
+  '2.0L H-4 Cyl',
+  '26 city/ 34 hwy',
+  '4',
+  'Automatic CVT',
+  '38,952');
 vehicleArray[5] = new Vehicle(
-  'SUU2703',
-  '2014 Subaru Forester Premium',
-  'Premium',
-  'Bronze',
-  '$20,374',
-  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1796/aa783ca5d7d370ac439cc86cd0235fb4x.jpg',
-  'http://www.ramseysubaru.net/certified/Subaru/2014-Subaru-Forester-ramsey-nj-13b30ea30a0e0adf72d8a9295a144f8a.htm?searchDepth=1:1',
+  'SUH0306A',
+  '2015 Subaru Legacy 2.5i Limited',
+  '2.5i Limited',
+  'Blue',
+  '$18,992',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1800/7b168da0475dfef4c0cfe82c73124c27x.jpg',
+  'http://www.ramseysubaru.net/used/Subaru/2015-Subaru-Legacy-ramsey-nj-a3cfde0e0a0e0a177eab2318b691f035.htm?searchDepth=1:1',
   '2.5L H-4 Cyl',
-  '24 city/ 32 hwy',
+  '26 city/ 36 hwy',
   4,
   'Automatic CVT',
-  '23,425');
+  '36,931');
 
 
 for (var i = 0; i < vehicleArray.length; i++) {
