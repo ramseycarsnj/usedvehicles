@@ -57,18 +57,18 @@ $(document).ready(function(){
 
 
 vehicleArray[0] = new Vehicle(
-  'SUU2731',
-  '2014 Subaru Legacy 2.5i',
+  'SUH0430A',
+  '2015 Subaru Forester 2.5i Limited',
   '2.5i with Remote Keyless entry + Bluetooth',
-  'Ice Silver',
-  '$14,990',
-  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1913/e4454f5a23fa69c600be586c2955f387x.jpg',
-  'http://www.ramseysubaru.net/certified/Subaru/2014-Subaru-Legacy-ramsey-nj-0ae622c70a0e0ae8595b246c9377c4b7.htm?searchDepth=1:1',
+  'Crystal Black',
+  '$20,450',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1689/fbf5c41105bc259f16f6b7b41ccf2b9ex.jpg',
+  'http://www.ramseysubaru.net/certified/Subaru/2015-Subaru-Forester-ramsey-nj-33e552980a0e0adf43fd01e902ed4107.htm?searchDepth=1:1',
   '2.5L H-4 Cyl AWD',
-  '21 city/29 hwy',
+  '24 city/32 hwy',
   '4',
   'Automatic CVT',
-  '43,928');
+  '40,107');
 vehicleArray[1] = new Vehicle(
   'SUH0191A',
   '2012 Volkswagen Tiguan SE',
