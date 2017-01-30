@@ -56,20 +56,8 @@ $(document).ready(function(){
 }
 
 
+
 vehicleArray[0] = new Vehicle(
-  'SUH0430A',
-  '2015 Subaru Forester 2.5i Limited',
-  '2.5i with Remote Keyless entry + Bluetooth',
-  'Crystal Black',
-  '$20,450',
-  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1689/fbf5c41105bc259f16f6b7b41ccf2b9ex.jpg',
-  'http://www.ramseysubaru.net/certified/Subaru/2015-Subaru-Forester-ramsey-nj-33e552980a0e0adf43fd01e902ed4107.htm?searchDepth=1:1',
-  '2.5L H-4 Cyl AWD',
-  '24 city/32 hwy',
-  '4',
-  'Automatic CVT',
-  '40,107');
-vehicleArray[1] = new Vehicle(
   'SUH0191A',
   '2012 Volkswagen Tiguan SE',
   'SE',
@@ -82,7 +70,7 @@ vehicleArray[1] = new Vehicle(
   '4',
   'Automatic with Tiptronic',
   '39,546');
-vehicleArray[2] = new Vehicle(
+vehicleArray[1] = new Vehicle(
   'SUH0662A',
   '2015 Nissan Altima 2.5 SL',
   '2.5 SL',
@@ -95,7 +83,7 @@ vehicleArray[2] = new Vehicle(
   '4',
   'CVT with XTRONIC',
   '18,889');
-vehicleArray[3] = new Vehicle(
+vehicleArray[2] = new Vehicle(
   'SUH0716A',
   '2014 BMW 428i xDrive',
   'xDrive',
@@ -108,7 +96,7 @@ vehicleArray[3] = new Vehicle(
   '4',
   '8-Speed Automatic',
   '38,447');
-vehicleArray[4] = new Vehicle(
+vehicleArray[3] = new Vehicle(
   'SUH0625A',
   '2015 Subaru WRX STi',
   'STi 2.5',
@@ -121,7 +109,7 @@ vehicleArray[4] = new Vehicle(
   '4',
   'Close Ratio 6 Speed Manual',
   '58,158');
-vehicleArray[5] = new Vehicle(
+vehicleArray[4] = new Vehicle(
   'SUH0694A',
   '2016 Subaru WRX',
   'Base',
