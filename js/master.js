@@ -97,19 +97,6 @@ vehicleArray[2] = new Vehicle(
   '8-Speed Automatic',
   '38,447');
 vehicleArray[3] = new Vehicle(
-  'SUH0625A',
-  '2015 Subaru WRX STi',
-  'STi 2.5',
-  'Crystal Black Silica',
-  '$26,988',
-  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1416/4822c5a9def2b7f51c143bdd5480443fx.jpg',
-  'http://www.ramseysubaru.net/certified/Subaru/2015-Subaru-null-ramsey-nj-2641453b0a0e0a175837ce586833d58f.htm?searchDepth=1:1',
-  '2.5L H-4 Cyl',
-  '17 city/23 hwy',
-  '4',
-  'Close Ratio 6 Speed Manual',
-  '58,158');
-vehicleArray[4] = new Vehicle(
   'SUH0694A',
   '2016 Subaru WRX',
   'Base',
@@ -122,6 +109,32 @@ vehicleArray[4] = new Vehicle(
   '4',
   '6 Speed Manual',
   '7,621');
+vehicleArray[3] = new Vehicle(
+  'SUG0239A',
+  '2008 Toyota RAV4 Limited',
+  'Limited',
+  'Black',
+  '$11,700',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1775/2e49fc8ab5f9d51c58ec5498d9d196b9x.jpg',
+  'http://www.ramseysubaru.net/new/Toyota/2008-Toyota-RAV4-ramsey-nj-a23fcaaf0a0e0ae8307c0e3512c0a657.htm?searchDepth=1:1',
+  '3.5L V-6 Cyl',
+  '19 city/26 hwy',
+  '4',
+  '5-speed Automatic',
+  '64,644');
+vehicleArray[3] = new Vehicle(
+  'SUH0870A',
+  '2013 Toyota Camry LE',
+  'LE',
+  'Classic Silver',
+  '$10,987',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1792/d65ae1fdee423d0effa1bb2bbf2abb89x.jpg',
+  'http://www.ramseysubaru.net/new/Toyota/2013-Toyota-Camry-ramsey-nj-59e3da570a0e0ae75af8e084f0a0345a.htm?searchDepth=1:1',
+  '2.5L I-4 Cyl',
+  '25 city/35 hwy',
+  '4',
+  '6-speed Automatic FWD',
+  '42,675');
 
 
 
