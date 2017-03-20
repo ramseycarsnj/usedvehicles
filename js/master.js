@@ -102,7 +102,7 @@ vehicleArray[3] = new Vehicle(
   '2012 LEXUS IS 250',
   '250',
   'Starfire Pearl',
-  '19,420',
+  '17,971',
   'https://pictures.dealer.com/r/ramseysubaruramseysoa/0280/ab8595693323852c6605767bd0f34edbx.jpg',
   'http://www.ramseysubaru.net/used/LEXUS/2012-LEXUS-IS+250-ramsey-nj-4c047a3d0a0e0adf3e0eb2a5e0dbe3a2.htm?searchDepth=1:1',
   '2.5l V-6 Crl',
