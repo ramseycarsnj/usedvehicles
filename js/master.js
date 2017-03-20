@@ -62,7 +62,7 @@ vehicleArray[0] = new Vehicle(
   '2013 Subaru Outback 2.5i',
   '2.5i',
   'Venetian Red Pearl',
-  '17,988',
+  '16,866',
   'https://pictures.dealer.com/r/ramseysubaruramseysoa/1103/26e230448e7406f1bcb5d74f7479132ax.jpg',
   'http://www.ramseysubaru.net/certified/Subaru/2013-Subaru-Outback-ramsey-nj-7dfa1dae0a0e0ae8294096d1b96a1c7a.htm?searchDepth=1:1',
   '2.5l H-4 Cyl',
@@ -76,7 +76,7 @@ vehicleArray[1] = new Vehicle(
   '2014 Subaru Outback 2.5i',
   '2.5i',
   'Venetian Red',
-  '19,899',
+  '18,420',
   'https://pictures.dealer.com/r/ramseysubaruramseysoa/0185/5c86068704c648d410cf990885eecbf8x.jpg',
   'http://www.ramseysubaru.net/certified/Subaru/2014-Subaru-Outback-ramsey-nj-b1753b420a0e0ae8294096d190122f11.htm?searchDepth=1:1',
   '2.5L H-4 Cyl',
@@ -89,7 +89,7 @@ vehicleArray[2] = new Vehicle(
   '2014 Mazda Mazda6 i',
   'i Base',
   'White Pearl',
-  '15,988',
+  '15,750',
   'https://pictures.dealer.com/r/ramseysubaruramseysoa/0625/66bdeaec7b8e9be2edec283e3aa4b5b0x.jpg',
   'http://www.ramseysubaru.net/used/Mazda/2014-Mazda-Mazda6-ramsey-nj-0e22e3ff0a0e0a171812578a8fdaf867.htm?searchDepth=1:1',
   '2.5L I-4 Cyl',
@@ -98,19 +98,6 @@ vehicleArray[2] = new Vehicle(
   '6-spd Automatic FWD',
   '36,715');
 vehicleArray[3] = new Vehicle(
-  'SUH1230A',
-  '2014 Hyundai Tucson Limited',
-  'Limited',
-  'Diamond Silver',
-  '15,988',
-  'https://pictures.dealer.com/r/ramseysubaruramseysoa/0755/5f2ec5609afe9ace7e4e962746c4723fx.jpg',
-  'http://www.ramseysubaru.net/used/Hyundai/2014-Hyundai-Tucson-ramsey-nj-234649420a0e0ae8779b2f8bc5ad1c2e.htm?searchDepth=1:1',
-  '2.4l H-4 Cyl',
-  '20 city/25 hwy',
-  '4',
-  '6-spd Automatic AWD',
-  '32,547');
-vehicleArray[4] = new Vehicle(
   'SUH1277A',
   '2012 LEXUS IS 250',
   '250',
@@ -123,6 +110,33 @@ vehicleArray[4] = new Vehicle(
   '4',
   '6-spd AWD',
   '37,670');
+vehicleArray[4] = new Vehicle(
+  'SUH0625A',
+  '2015 Subaru Impreza WRX STi',
+  'Base',
+  'Crystal Black Silica',
+  '26,988',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/1765/9b9fdf13be7248c8ea16b00a226d85d4x.jpg',
+  'http://www.ramseysubaru.net/used/Subaru/2015-Subaru-null-ramsey-nj-aa8c1f280a0e0a6b4809a03a6facb454.htm?searchDepth=1:1',
+  '2.5l DOHC',
+  '15 city/19 hwy',
+  '4',
+  '6-spd AWD',
+  '58,158');
+vehicleArray[5] = new Vehicle(
+  'SUG2609B',
+  '2010 Jeep Wrangler Unlimited Sport',
+  'Unlimited Sport',
+  'White',
+  '19,998',
+  'https://pictures.dealer.com/r/ramseysubaruramseysoa/0649/8dd210b4cf7c1cf1b913e067430e67f6x.jpg',
+  'http://www.ramseysubaru.net/used/Jeep/2010-Jeep-Wrangler+Unlimited-ramsey-nj-a1de10300a0e0ae75af8e08490356701.htm?searchDepth=1:1',
+  '3.8L V6 SMPI',
+  '20 city/27 hwy',
+  '4',
+  '6-spd Manual',
+  '37,670');
+
 
 
 
